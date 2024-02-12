@@ -1,0 +1,6 @@
+2024/02/11-19:12:33.627 5b04 Reusing MANIFEST C:\Users\Yunior\source\repos\Delio-so\bin\Debug\net6.0-windows\Delio-so.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2024/02/11-19:12:33.663 5b04 Recovering log #17
+2024/02/11-19:12:33.673 5b04 Reusing old log C:\Users\Yunior\source\repos\Delio-so\bin\Debug\net6.0-windows\Delio-so.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000017.log 
+2024/02/11-19:14:02.285 4a8c Level-0 table #20: started
+2024/02/11-19:14:02.302 4a8c Level-0 table #20: 113380 bytes OK
+2024/02/11-19:14:02.306 4a8c Delete type=0 #17

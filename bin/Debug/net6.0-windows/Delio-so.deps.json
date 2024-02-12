@@ -1,0 +1,91 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Delio-so/1.0.0": {
+        "dependencies": {
+          "FontAwesome": "4.7.0",
+          "FontAwesome.Sharp": "6.3.0",
+          "Microsoft.Web.WebView2": "1.0.2277.86"
+        },
+        "runtime": {
+          "Delio-so.dll": {}
+        }
+      },
+      "FontAwesome/4.7.0": {},
+      "FontAwesome.Sharp/6.3.0": {
+        "runtime": {
+          "lib/net6.0-windows7.0/FontAwesome.Sharp.dll": {
+            "assemblyVersion": "6.3.0.0",
+            "fileVersion": "6.3.0.0"
+          }
+        }
+      },
+      "Microsoft.Web.WebView2/1.0.2277.86": {
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Core.dll": {
+            "assemblyVersion": "1.0.2277.86",
+            "fileVersion": "1.0.2277.86"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.WinForms.dll": {
+            "assemblyVersion": "1.0.2277.86",
+            "fileVersion": "1.0.2277.86"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Wpf.dll": {
+            "assemblyVersion": "1.0.2277.86",
+            "fileVersion": "1.0.2277.86"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/WebView2Loader.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "1.0.2277.86"
+          },
+          "runtimes/win-x64/native/WebView2Loader.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.0.2277.86"
+          },
+          "runtimes/win-x86/native/WebView2Loader.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.0.2277.86"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delio-so/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FontAwesome/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n4H/brfszElyoZ4kmGh8E75uqvLzLvFr3h2PFVdPH1LwUmWIpeqdaW2pcC4oZAhg7sESyObh0IZpAI8COCNeUg==",
+      "path": "fontawesome/4.7.0",
+      "hashPath": "fontawesome.4.7.0.nupkg.sha512"
+    },
+    "FontAwesome.Sharp/6.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3/Fb0N04yYK8An07oox5ISlUyNgsnWildHfoP69uqTEOsemQemRyciphMkXZOcdBupjUD+lVsRE3FqG41/dzPA==",
+      "path": "fontawesome.sharp/6.3.0",
+      "hashPath": "fontawesome.sharp.6.3.0.nupkg.sha512"
+    },
+    "Microsoft.Web.WebView2/1.0.2277.86": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uxtDlLvFPuYDSIic1jbd6bGyuHTE/U2lYWQT55yUhkRdMaqNs5krFoTD+jCPrDNC2MA6QYVxCQLlkw2nI8BV+Q==",
+      "path": "microsoft.web.webview2/1.0.2277.86",
+      "hashPath": "microsoft.web.webview2.1.0.2277.86.nupkg.sha512"
+    }
+  }
+}
